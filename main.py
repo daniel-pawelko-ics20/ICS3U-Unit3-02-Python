@@ -7,7 +7,8 @@
 
 def main():
     # This function inputs guess and outputs if correct or not
-
+    
+    # store const
     NUM = 4
 
     # input
